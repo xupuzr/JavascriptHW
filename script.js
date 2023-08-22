@@ -49,4 +49,4 @@ console.log( 'Мне ' + old + ' лет');
 console.log('Пример номер 1 Ответ = 200, Ваш ответ = ' + primerOne);
 console.log('Пример номер 2 Ответ = 100, Ваш ответ = ' + primerTwo);
 console.log('Пример номер 3 Ответ = 60, Ваш ответ = ' + primerThree);
-console.log('Пример номер 1 Ответ = 2.01010101, Ваш ответ = ' + primerFour);
+console.log('Пример номер 4 Ответ = 2.01010101, Ваш ответ = ' + primerFour);
