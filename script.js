@@ -42,7 +42,7 @@ var primerOne = +prompt('Решите пример: 199+1')
 var primerTwo = +prompt('Решите пример: 199-99')
 var primerThree = +prompt('Решите пример: 180/3')
 var primerFour = +prompt('Решите пример: 199 % 99')
-var congrat =  prompt('Загляните в консоль с помощью Ctrl+Shift+j')
+alert('Загляните в консоль с помощью Ctrl+Shift+j')
 
 console.log( 'Меня зовут ' + names);
 console.log( 'Мне ' + old + ' лет');
